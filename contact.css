@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.logo {
+	height:30px;
+
+}
+.jumbotron-bg {
+	background-image: url("../ifixit/contact%20.jpg");
+	background-size: cover;
+	background-position: center,top;
+}
+
+
+.img{
+height: 200px;
+}
+.image{
+	height: 800px;
+}
